@@ -1,0 +1,22 @@
+{
+    "name": "Liam",
+    "race": "Tiefling",
+    "appearance": {
+      "eyes": "Unnaturally bright blue with the pupils being more of a pitch black slit rather than a dot.",
+      "hair": "Very thick black hair roughly four to five inches in length, bruched back behind his horns.",
+      "skin": "Dark red and soft to the touch besides the crevasses that have a bright reddish orange hue to them all throughout his body, these cracks have calloused like textured along the outside rims of the skin. If you look close and long enough at the bright cracks within his skin it looks like it moves like lava.",
+      "height": "5'10\"",
+      "weight": "175 lbs",
+      "distinguishing_features": [
+        "Has one and a half inch long black beard that fills out his chin and around his mouth.",
+        "His horns are a dark red in color with hints of pitch black that curl out near the tip in a circle pointing out."
+      ],
+      "clothing": [
+        "He wears a tattered old priest clothing that fits him a little looser than his original human form so they appear almost as oversized robes."
+      ],
+      "presence": [
+        "He carries himself by a sense of purpose to heal and protect others while balancing self doubt regarding his new tiefling form.",
+        "He prides himself to lend a helping hand even if it gets him in trouble as he wants to have everyone maintain inner self peace with their actions."
+      ]
+    }
+  }

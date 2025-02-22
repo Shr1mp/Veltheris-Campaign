@@ -1,0 +1,93 @@
+{
+    "hall": {
+        "name": "Hall",
+        "race": "Eladrin",
+        "class": "Druid",
+        "subclass": "Circle of the Stars",
+        "age": 27,
+        "height": "5'4\"",
+        "weight": "140 lbs",
+        "affiliations": ["Adventuring Party", "Astral Vale"],
+        "backstory_file": "backstories/hall.json",
+        "appearance_file": "apperances/hall.json",
+        "subplot_file": "subplots/hall.json"
+    },
+    "liam": {
+        "name": "Liam",
+        "race": "Tiefling",
+        "class": "Warlock",
+        "subclass": "Genie Patron",
+        "age": 30,
+        "height": "5'10\"",
+        "weight": "175 lbs",
+        "affiliations": ["Adventuring Party", "Zhyraal"],
+        "backstory_file": "backstories/liam.json",
+        "appearance_file": "apperances/liam.json",
+        "subplot_file": "subplots/liam.json"
+    },
+    "corwin": {
+        "name": "Corwin",
+        "race": "Half-Elf",
+        "class": "Warlock",
+        "subclass": "Pact of the Blade",
+        "age": 38,
+        "height": "6'0\"",
+        "weight": "185 lbs",
+        "affiliations": ["Adventuring Party", "Thalvaxyr"],
+        "backstory_file": "backstories/corwin.json",
+        "appearance_file": "apperances/corwin.json",
+        "subplot_file": "subplots/corwin.json"
+    },
+    "soren": {
+        "name": "Soren",
+        "race": "Vedalken",
+        "class": "Artificer",
+        "subclass": "Armorer",
+        "age": 35,
+        "height": "6'1\"",
+        "weight": "170 lbs",
+        "affiliations": ["Adventuring Party", "Exiled Eryndral Royalty", "Skarvind Dominion"],
+        "backstory_file": "backstories/soren.json",
+        "appearance_file": "apperances/soren.json",
+        "subplot_file": "subplots/soren.json"
+    },
+    "varian": {
+        "name": "Varian Steelheart",
+        "race": "Human",
+        "class": "Fighter / Warlock",
+        "subclass": "Eldritch Knight / Pact of the Blade",
+        "age": 32,
+        "height": "6'2\"",
+        "weight": "190 lbs",
+        "affiliations": ["Adventuring Party", "Goldenstead Survivors", "Steelheart Order"],
+        "backstory_file": "backstories/varian.json",
+        "appearance_file": "apperances/varian.json",
+        "subplot_file": "subplots/varian.json"
+    },
+    "hordor": {
+        "name": "Hordor",
+        "race": "Red Dragonborn",
+        "class": "Paladin",
+        "subclass": "Oath of Devotion",
+        "age": 40,
+        "height": "6'8\"",
+        "weight": "280 lbs",
+        "affiliations": ["Adventuring Party"],
+        "backstory_file": "backstories/hordor.json",
+        "appearance_file": "apperances/hordor.json",
+        "subplot_file": "subplots/hordor.json"
+    },
+    "gideon": {
+        "name": "Gideon \"Ol' Cog\" Harrowfield",
+        "race": "Human",
+        "class": "Artificer",
+        "subclass": "Alchemist",
+        "age": "68",
+        "height": "6'0\"",
+        "weight": "140 lbs",
+        "affiliations": ["Adventuring Party", "Agent of Lady Serapheine Drakovar"],
+        "backstory_file": "backstories/gideon.json",
+        "appearance_file": "apperances/gideon.json",
+        "subplot_file": "subplots/gideon.json"
+    }
+}
