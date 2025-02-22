@@ -1,18 +1,18 @@
 {
-    "name": "",
-    "race": "",
+    "name": "Varian Steelheart",
+    "race": "Human",
     "appearance": {
-      "eyes": "",
-      "hair": "",
-      "skin": "",
-      "height": "",
-      "weight": "",
+      "eyes": "Grey eyes",
+      "hair": "Wavy, side tapered undercut black hair.",
+      "skin": "White",
       "distinguishing_features": [
-        ""
+        "Black stubble."
       ],
       "clothing": [
-        ""
+        "Dark, reinforced steel armor with crimson red embroidered cloak.", 
+        "Wears the medallion of the Steelheart Order on his left spaulder. ",
+        "When not wearing his outer armor, he usually sports his gambeson with a cracked black leather chese piece as a just in case."
       ],
-      "presence": ""
+      "presence": "Usually sticks to the side and does his job as needed, takes notes on food when trying new dishes."
     }
   }

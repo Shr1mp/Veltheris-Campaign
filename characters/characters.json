@@ -8,9 +8,9 @@
         "height": "5'4\"",
         "weight": "140 lbs",
         "affiliations": ["Adventuring Party", "Astral Vale"],
-        "backstory_file": "backstories/hall.json",
-        "appearance_file": "apperances/hall.json",
-        "subplot_file": "subplots/hall.json"
+        "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/hall.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/hall.json",
+        "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/hall.json"
     },
     "liam": {
         "name": "Liam",
@@ -21,9 +21,9 @@
         "height": "5'10\"",
         "weight": "175 lbs",
         "affiliations": ["Adventuring Party", "Zhyraal"],
-        "backstory_file": "backstories/liam.json",
-        "appearance_file": "apperances/liam.json",
-        "subplot_file": "subplots/liam.json"
+        "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/liam.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/liam.json",
+        "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/liam.json"
     },
     "corwin": {
         "name": "Corwin",
@@ -34,9 +34,9 @@
         "height": "6'0\"",
         "weight": "185 lbs",
         "affiliations": ["Adventuring Party", "Thalvaxyr"],
-        "backstory_file": "backstories/corwin.json",
-        "appearance_file": "apperances/corwin.json",
-        "subplot_file": "subplots/corwin.json"
+        "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/corwin.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/corwin.json",
+        "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/corwin.json"
     },
     "soren": {
         "name": "Soren",
@@ -47,9 +47,9 @@
         "height": "6'1\"",
         "weight": "170 lbs",
         "affiliations": ["Adventuring Party", "Exiled Eryndral Royalty", "Skarvind Dominion"],
-        "backstory_file": "backstories/soren.json",
-        "appearance_file": "apperances/soren.json",
-        "subplot_file": "subplots/soren.json"
+        "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/soren.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/soren.json",
+        "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/soren.json"
     },
     "varian": {
         "name": "Varian Steelheart",
@@ -60,9 +60,9 @@
         "height": "6'2\"",
         "weight": "190 lbs",
         "affiliations": ["Adventuring Party", "Goldenstead Survivors", "Steelheart Order"],
-        "backstory_file": "backstories/varian.json",
-        "appearance_file": "apperances/varian.json",
-        "subplot_file": "subplots/varian.json"
+        "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/varian.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/varian.json",
+        "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/varian.json"
     },
     "hordor": {
         "name": "Hordor",
@@ -73,9 +73,9 @@
         "height": "6'8\"",
         "weight": "280 lbs",
         "affiliations": ["Adventuring Party"],
-        "backstory_file": "backstories/hordor.json",
-        "appearance_file": "apperances/hordor.json",
-        "subplot_file": "subplots/hordor.json"
+        "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/hordor.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/hordor.json",
+        "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/hordor.json"
     },
     "gideon": {
         "name": "Gideon \"Ol' Cog\" Harrowfield",
@@ -86,8 +86,8 @@
         "height": "6'0\"",
         "weight": "140 lbs",
         "affiliations": ["Adventuring Party", "Agent of Lady Serapheine Drakovar"],
-        "backstory_file": "backstories/gideon.json",
-        "appearance_file": "apperances/gideon.json",
-        "subplot_file": "subplots/gideon.json"
+        "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/gideon.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/gideon.json",
+        "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/gideon.json"
     }
 }
