@@ -22,7 +22,7 @@
         "weight": "175 lbs",
         "affiliations": ["Adventuring Party", "Zhyraal"],
         "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/liam.json",
-        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/liam.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/appearances/liam.json",
         "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/liam.json"
     },
     "corwin": {
@@ -35,7 +35,7 @@
         "weight": "185 lbs",
         "affiliations": ["Adventuring Party", "Thalvaxyr"],
         "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/corwin.json",
-        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/corwin.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/appearances/corwin.json",
         "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/corwin.json"
     },
     "soren": {
@@ -48,7 +48,7 @@
         "weight": "170 lbs",
         "affiliations": ["Adventuring Party", "Exiled Eryndral Royalty", "Skarvind Dominion"],
         "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/soren.json",
-        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/soren.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/appearances/soren.json",
         "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/soren.json"
     },
     "varian": {
@@ -61,7 +61,7 @@
         "weight": "190 lbs",
         "affiliations": ["Adventuring Party", "Goldenstead Survivors", "Steelheart Order"],
         "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/varian.json",
-        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/varian.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/appearances/varian.json",
         "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/varian.json"
     },
     "hordor": {
@@ -74,7 +74,7 @@
         "weight": "280 lbs",
         "affiliations": ["Adventuring Party"],
         "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/hordor.json",
-        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/hordor.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/appearances/hordor.json",
         "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/hordor.json"
     },
     "gideon": {
@@ -87,7 +87,7 @@
         "weight": "140 lbs",
         "affiliations": ["Adventuring Party", "Agent of Lady Serapheine Drakovar"],
         "backstory_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/backstories/gideon.json",
-        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/apperances/gideon.json",
+        "appearance_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/appearances/gideon.json",
         "subplot_file": "https://raw.githubusercontent.com/Shr1mp/Veltheris-Campaign/refs/heads/main/characters/subplots/gideon.json"
     }
 }
